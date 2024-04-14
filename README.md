@@ -14,7 +14,3 @@ numpy
 matplotlib  
 nilearn
 
-
-```python
-
-```
